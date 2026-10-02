@@ -1,0 +1,22 @@
+[
+  {
+    "value": "2000",
+    "label": "Más de Q2,000"
+  },
+  {
+    "value": "4000",
+    "label": "Más de Q4,000"
+  },
+  {
+    "value": "6000",
+    "label": "Más de Q6,000"
+  },
+  {
+    "value": "8000",
+    "label": "Más de Q8,000"
+  },
+  {
+    "value": "12000",
+    "label": "Más de Q12,000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "value": "remoto",
+    "label": "Remoto"
+  },
+  {
+    "value": "hibrido",
+    "label": "Híbrido"
+  },
+  {
+    "value": "presencial",
+    "label": "Presencial"
+  }
+]
