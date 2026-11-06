@@ -7,7 +7,9 @@
 [![React Router](https://img.shields.io/badge/React_Router-v7-CA4245?logo=reactrouter\&logoColor=white)](https://reactrouter.com/)
 [![Zod](https://img.shields.io/badge/Zod-Validation-3E67B1?logo=zod\&logoColor=white)](https://zod.dev/)
 
-**DevJobs** es una plataforma web que conecta a desarrolladores con empresas que buscan talento tecnológico. Permite buscar empleos, enviar solicitudes y dar seguimiento a las postulaciones. También cuenta con herramientas para que las empresas publiquen ofertas y administren a sus candidatos.
+**DevJobs** es una plataforma web que conecta a desarrolladores con empresas que buscan talento tecnológico. Permite buscar ofertas de empleo, enviar solicitudes y dar seguimiento a las postulaciones. También cuenta con herramientas para que las empresas publiquen ofertas y administren a sus candidatos. 
+
+**Nota:** Este proyecto está hecho en base al proyecto del Bootcamp **[JSCamp.dev](https://jscamp.dev/) 2025 de [@midudev](https://github.com/midudev)** pero mucho mas extenso y con mas funcionalidades.
 
 ---
 
@@ -166,6 +168,6 @@ Los datos utilizados para probar la aplicación, como empleos, empresas y filtro
 
 ## 👤 Autor
 
-Desarrollado por **Gramajooo**.
+Desarrollado por **Gramajooo** extendiendo las funcionalidades del proyecto del Jscamp de **midudev**.
 
 * **GitHub:** [@Gramajooo](https://github.com/Gramajooo)

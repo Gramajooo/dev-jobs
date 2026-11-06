@@ -1,7 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
-import { Footer } from "./components/Footer";
-import { Header, MenuPages } from "./components/Navbar";
-import { AllRoutes } from "./components/Routes/AllRoutes";
+import { Footer, Header, MenuPages } from "./components/layout";
+import { AppRoutes } from "./routes/AppRoutes";
 import { AuthProvider } from "./context/AuthContext";
 import { ApplicationsProvider } from "./context/ApplicationsContext";
 import { RecruiterProvider } from "./context/RecruiterContext";
@@ -15,7 +14,7 @@ export const App = () => {
             <Header>
               <MenuPages />
             </Header>
-            <AllRoutes />
+            <AppRoutes />
             <Footer />
           </RecruiterProvider>
         </ApplicationsProvider>
