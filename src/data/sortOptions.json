@@ -1,0 +1,14 @@
+[
+  {
+    "value": "relevance",
+    "label": "Relevancia"
+  },
+  {
+    "value": "date",
+    "label": "Fecha"
+  },
+  {
+    "value": "salary",
+    "label": "Salario"
+  }
+]

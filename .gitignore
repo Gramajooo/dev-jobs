@@ -24,11 +24,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Mock / Generated Data (datos inventados / locales)
-src/data/
-data/
-*.mock.json
-
 # Tooling & Workspace
 .antigravity/
 
